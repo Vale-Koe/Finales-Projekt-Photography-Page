@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'MontLight';
+  src: url('/fonts/Mont-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TheSeasonsLight';
+  src: url('/fonts/THE SEASONS LIGHT.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text-font: 'MontLight', sans-serif; 
+  --decorating-font: 'TheSeasonsLight', serif;
+  --text-color: white;
+}
+
+
+

@@ -1,0 +1,32 @@
+/* Mobile */
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+   /* padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px; */
+  
+    
+}
+.socialmediaIcons ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+.socialmediaIcons li {
+    height: 25px;
+}
+.socialmediaIcons img {
+    width: 25px;
+    height: 25px;
+    fill: white;
+}
+.copyright p {
+    font-family: var(--text-font);
+    color: var(--text-color);
+    font-size: 13px;
+}

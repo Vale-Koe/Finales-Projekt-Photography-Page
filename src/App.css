@@ -1,0 +1,19 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+.app.default {
+  background-image: url("./Background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.app.color {
+    background-color: #908475;
+    
+}
+
+

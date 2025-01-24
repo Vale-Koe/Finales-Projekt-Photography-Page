@@ -1,0 +1,54 @@
+{
+  "data": {
+    
+    "people": [
+      {"id": "1", "image": "/people/img_9055.JPG"},
+      {"id": "2", "image": "/people/L1070173.JPG"},
+      {"id": "3", "image": "/people/V1000175.jpg"},
+      { "id": "4", "image": "/people/L1130264.jpg"},
+      { "id": "5", "image": "/people/V1000032.jpg"},
+      { "id": "6", "image": "/people/L1070232.JPG"},
+      { "id": "7", "image": "/people/V1000177.jpg"},
+      { "id": "8", "image": "/people/V1000197.jpg"},
+      {"id": "9", "image": "/people/img8983.JPG"},
+      {"id": "10", "image": "/people/img9074.JPG"},
+      {"id": "11", "image": "/people/L1130268.jpg"}, 
+      {"id": "12", "image": "/people/L1080920.jpg"}
+    ],
+    
+    "kids": [
+      {"id": "1", "image": "/kids/image00001.jpeg"},
+      {"id": "2", "image": "/kids/IMG_2211.jpg"},
+      {"id": "3", "image": "/kids/IMG_2464.jpg"},
+      {"id": "4", "image": "/kids/IMG_4042.jpg"},
+      {"id": "5", "image": "/kids/IMG_6628.jpg"},
+      {"id": "6", "image": "/kids/IMG_4030.jpg"},
+      {"id": "7", "image": "/kids/L1080611.jpg"},
+      {"id": "8", "image": "/kids/L1080801.jpg"},
+      {"id": "9", "image": "/kids/L1080422.jpg"},
+      {"id": "10", "image": "/kids/L11207.jpg"},
+      {"id": "11", "image": "/kids/L1200258.jpg"},
+      {"id": "12", "image": "/kids/L1200323.jpg"},
+      {"id": "13", "image": "/kids/L1240316.jpg"}, 
+      {"id": "14", "image": "/kids/L1240639.jpg"}, 
+      {"id": "15", "image": "/kids/L1190650.jpg"}
+     
+    ],
+    
+    "interior": [
+        {"id": "1", "image": "/interior/L1160994.jpg"}, 
+        {"id": "2", "image": "/interior/L1170025.jpg"}, 
+        {"id": "3", "image": "/interior/L1230469.jpg"}, 
+        {"id": "4", "image": "/interior/L1260672.jpg"}, 
+        {"id": "5", "image": "/interior/L1260673.jpg"}, 
+        {"id": "6", "image": "/interior/L1260756.jpg"}, 
+        {"id": "7", "image": "/interior/L1260792.jpg"}, 
+        {"id": "8", "image": "/interior/L1260829.jpg"},
+        {"id": "9", "image": "/interior/L1190831.jpg"},
+        {"id": "10", "image": "/interior/L1260666.jpg"},  
+        {"id": "11", "image": "/interior/L1260713.jpg"}, 
+        {"id": "12", "image": "/interior/L1260818.jpg"}
+    ]
+
+  }
+}
