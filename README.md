@@ -16,8 +16,8 @@
  ## Technologien
 
  - **React:** Für die Erstellung der Benutzeroberfläche;
- -**React Router:** Für die Navigation zwischen verschiedenen Seiten;
- -**CSS:** Für das Styling der Seite;
+ - **React Router:** Für die Navigation zwischen verschiedenen Seiten;
+ - **CSS:** Für das Styling der Seite;
  - **Axios**: Für die Kommunikation mit der EmailJS-API;
 
  ## Nutzung
